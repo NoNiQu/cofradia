@@ -77,3 +77,11 @@ footer{
     font-variant: small-caps;
     font-size: 25px;
 }
+.accordion-button.open {
+    background-color: white !important; 
+    color: #1C8C4D !important;
+}
+.accordion-button.closed {
+    background-color: #1C8C4D !important;
+    color: white !important;
+  }
