@@ -72,3 +72,8 @@ footer{
 .italica{
     font-style: italic;
 }
+
+.accordion .accordion-button{
+    font-variant: small-caps;
+    font-size: 25px;
+}
